@@ -12,4 +12,5 @@ disable = missing-function-docstring,
         invalid-name,
         unused-import,
         redefined-builtin,
-        wrong-import-order
+        wrong-import-order,
+        import-outside-toplevel
